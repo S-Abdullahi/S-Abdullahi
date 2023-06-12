@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Python, javascript, react, django**
+- 💬 Ask me about **javascript, react, typescript, tailwind**
 
 - 📫 How to reach me **salawu.abdullahi01@gmail.com**
 
