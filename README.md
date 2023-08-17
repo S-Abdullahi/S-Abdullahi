@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salawu Abdullahi Olalekan</h1>
 <h3 align="center">A passionate and eagle-eyed software enthusiast with core interest in client side development. I have detailed eye for user-friendly designs and functionalities. </h3>
 
-- 🌱 I’m currently learning **react**
-
 - 💬 Ask me about **javascript, react, typescript, tailwind**
 
 - 📫 How to reach me **salawu.abdullahi01@gmail.com**
